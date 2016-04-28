@@ -26,6 +26,7 @@ The result files are as follows:
     tamnon's dialect analyses.
 - all.txt contains all information combined in a single file.
 - the graphs folder contains the rules results in graph form.
+
 ----
 ## GUI Form
 Alternatively, you can run `python2 tamnon_gui.py`
